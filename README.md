@@ -29,6 +29,12 @@ hapus item
 
 
 
+FLOWVHART
+
+![postest 2 flowchart drawio (3)](https://github.com/restualhidayat/posttest2/assets/128288203/10e62c40-0321-4a06-974a-0f2da3319151)
+
+
+
 
 
 
